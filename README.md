@@ -6,3 +6,5 @@ COMPATIBILITY: This script is version, edition and bit indipendent in W10. It wo
 In the first 5 months after i wrote this i used it more then 50 times... I can't even understand how one could live without this.
 
 run as admin!!!
+
+There will be some error message scrolling that are expected and safe to ingore, those are all related to packages that we ask windows to remove but it replies nay because it's "part of windows".
